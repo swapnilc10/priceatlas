@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: priceatlas
+Version: 0.1.0
+Summary: Open-source global product price intelligence platform
+Requires-Python: >=3.11
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"
+Requires-Dist: pytest-cov>=5; extra == "dev"
+Requires-Dist: ruff>=0.6; extra == "dev"
